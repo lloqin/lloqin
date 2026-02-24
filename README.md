@@ -9,14 +9,12 @@ he / him / they / them
 
 site maker .ᐟ  
 
-@qbu   ┆ everskies
-
+@qbu   ┆ everskies  
 @prada ┆ escapica 
 
 ━━━━━━━━━━━━━━━━━━
 
 💻 html · **css** · js  
-
 💬 discord: @.notbroke  
 
 </div>
