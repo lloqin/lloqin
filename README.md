@@ -5,14 +5,15 @@
 lucian  
 not my main (＠＾◡＾)
 
-he / him  
-es player since 2020 .ᐟ  
+he / him / they / them
+site maker .ᐟ  
 
-@qbu ┆ @prada ┆ escapica  
+@qbu   ┆ everskies
+@prada ┆ escapica 
 
 ━━━━━━━━━━━━━━━━━━
 
-💻 html · css · js  
+💻 html · **css** · js  
 💬 discord: @.notbroke  
 
 </div>
