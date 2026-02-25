@@ -13,7 +13,7 @@ https://lloqin.github.io
 @qbu    ┆ everskies  
 @prada ┆ escapica 
 
-*1010101010101010101010*
++-+-+-+-+-+-+-+-+-+-+-+-+
 
 💻 html · **css** · js  
 💬 discord: @.notbroke  
