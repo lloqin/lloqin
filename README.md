@@ -17,6 +17,7 @@ https://lloqin.github.io
 
 💻 html · **css** · js  
 💬 discord: @.notbroke  
+🌐 email: [legally@europe.com](<mailto:legally@europe.com)
 
 <div align="center">
 ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢀⣠⡴⠶⢤⣄⠀⠀⠀⠀⠀⠀⠀⠀⠀
